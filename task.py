@@ -1,4 +1,4 @@
-# class Mekteb:
+# class Mekteb():
 
 #     sinif = "Telebe"
 #     sinif = "Mellim"
@@ -36,7 +36,7 @@
 # print(f"{Telebe6.ad} {Telebe6.soyad} {Telebe6.ixtisas} ixtisasının {Telebe6.kurs(True)} tələbəsidir. {Mellim2.ad} {Mellim2.soyad}-un dərsindədir.")
 
 
-# class Yirtici:
+# class Yirtici():
 
 #     sinif = "Heyvan"
 
@@ -49,7 +49,7 @@
 # Heyvan = Yirtici("Aslan", 4, "vəhşi")
 
 
-# class Memeliler:
+# class Memeliler():
 
 #     sinif = "Qus"
 
@@ -65,7 +65,7 @@
 # print(f"{Qus.yas} yasindaki {Qus.ad} {Heyvan.yas} yasindaki {Heyvan.novu} {Heyvan.ad}-ni qacirda bilmez...")
 
 
-# class Mektebli:
+# class Mektebli():
 
 #     sinif = "Sagird"
     
